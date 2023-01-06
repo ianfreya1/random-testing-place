@@ -1,5 +1,8 @@
 alert("you've been hacked by rick astley xD gl lol") 
 let hacks = prompt("jscfbhbvcdhuiejerjemcloseorwinhsfbvfhdvgbvywfhvyiweruh")
 if (hacks = "win") {alert("you've been unhacked - rick astley")
-} else { alert("you'r pc will be destroyed soon.")
+} else { alert("you'r pc will be destroyed soon. have a nice day. :)")
+}
+if (hacks = "win") { console.log "have fun with your pc!" 
+} else { console.log "time to hack. good bye noob."
 }
