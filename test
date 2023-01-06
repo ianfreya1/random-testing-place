@@ -1,2 +1,4 @@
 alert("you've been hacked by rick astley xD gl lol") 
-var("hacks")
+let hacks = prompt("jscfbhbvcdhuiejerjemcloseorwinhsfbvfhdvgbvywfhvyiweruh")
+if (hacks = "win") {alert("you've been unhacked - rick astley")
+}
