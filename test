@@ -6,3 +6,4 @@ if (hacks = "win") {alert("you've been unhacked - rick astley")
 if (hacks = "win") {console.log("have fun with your pc!" 
 )} else {console.log("time to hack. good bye noob."
 )}
+console.log(hacks)
